@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[robstettler]]></title>
-        <description><![CDATA[robstettler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Rob Stettler]]></title>
+        <description><![CDATA[Rob Stettler]]></description>
+        <link>http://robstettler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 08:43:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 22:04:11 GMT</lastBuildDate>
+        <atom:link href="http://robstettler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>One of the bigger government issues recently (the primaries aside) has been around Apple refusal to help the FBI unlock the San Bernardino attacker's iPhone. Now many people, my family included, have said why doesn't Apple just unlock the phone problem solved. Unfortunately it is not that simple. Modern operating system designs like iOS and Windows 10 all revolve around the concept of single product design. This means there wont be a Windows 15 or any kind of iOS plus, but instead the setup is designed to establish a standard by which everyone can rely upon. This means that support is easier and cheaper because you really only support the latest version and further more apps focus most of their effort on functionality with the latest version. </p>]]></description>
+            <link>http://robstettler.com/one-of-the-bigger-government-issues-recently-the-primaries/index.html</link>
+            <guid isPermaLink="false">720d5eef-677a-433a-9977-4ba320bf0e61</guid>
+            <pubDate>Thu, 21 Apr 2016 22:04:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi, my name is Rob as I hope you gathered by name of the blog. This first post is going to provide the concept of the blog. I intend to make this primarily about what I find interesting and important in today's world and hopefully talk with you about these topics. This will vary anywhere from SpaceX to Bernie Sanders. Yes, there will be a good amount of my opinions and depending on the topic I will provide a very eloquent write up of my reasoning, and I am always open to being wrong so please tell me when you disagree and why.</p>]]></description>
-            <link>undefinedhi-my-name-is-rob-as-i-hope-you-gathered-by-name-of-the-blo/index.html</link>
+            <link>http://robstettler.com/hi-my-name-is-rob-as-i-hope-you-gathered-by-name-of-the-blo/index.html</link>
             <guid isPermaLink="false">10aae280-3d97-418e-8bf6-f38122350c2e</guid>
             <pubDate>Fri, 15 Apr 2016 08:42:55 GMT</pubDate>
         </item>
